@@ -24,8 +24,8 @@ XYZ
   - uTest Academy 
 
 ## My test case example:
-[Test case example]()
+[Test case example](https://github.com/NataliaPlata/Portfolio/blob/main/Images/Test%20Case.png)
 
 ## My bug report example:
-[Jira bug report]()
+[Jira bug report](https://github.com/NataliaPlata/Portfolio/blob/main/Images/Jira%20Bug%20Raport.png)
 
