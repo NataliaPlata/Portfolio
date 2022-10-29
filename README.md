@@ -21,7 +21,7 @@ XYZ
   - SCRUM
   
 ## Courses in progress:
-  - uTest Academy 
+  - [uTest Academy](https://www.utest.com/)
 
 ## My test case example:
 [Test case example](https://github.com/NataliaPlata/Portfolio/blob/main/Images/Test%20Case.png)
