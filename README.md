@@ -20,7 +20,8 @@ On this page I would like to share my experience gained through self-study.
   - [Jira](https://www.atlassian.com/software/jira0)
   - [Postman](https://www.postman.com/)
   - [Github](https://github.com/)
-  - TestLink 
+  - TestLink
+  - Git
   
 ## Tech skills:
   - Software testing
