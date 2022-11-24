@@ -33,6 +33,7 @@ On this page I would like to share my experience gained through self-study.
   
 ## Courses in progress:
   - [uTest Academy](https://www.utest.com/)
+  - Python -basic
 
 ## My test case example:
 [Test case example](https://github.com/NataliaPlata/Portfolio/blob/main/Images/Test%20Case.png)
